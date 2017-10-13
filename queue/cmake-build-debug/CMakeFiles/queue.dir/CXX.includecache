@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/datastructure/queue/MyQueue.cpp
+clocale
+-
+iostream
+-
+MyQueue.h
+D:/datastructure/queue/MyQueue.h
+
+D:/datastructure/queue/MyQueue.h
+
+D:/datastructure/queue/main.cpp
+iostream
+-
+MyQueue.h
+D:/datastructure/queue/MyQueue.h
+

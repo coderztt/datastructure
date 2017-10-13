@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/datastructure/stack/Convert.h
+MyStack.h
+D:/datastructure/stack/MyStack.h
+
+D:/datastructure/stack/MyStack.h
+iostream
+-
+
+D:/datastructure/stack/Parentheses.h
+cstring
+-
+MyStack.h
+D:/datastructure/stack/MyStack.h
+
+D:/datastructure/stack/main.cpp
+iostream
+-
+MyStack.h
+D:/datastructure/stack/MyStack.h
+Convert.h
+D:/datastructure/stack/Convert.h
+Parentheses.h
+D:/datastructure/stack/Parentheses.h
+

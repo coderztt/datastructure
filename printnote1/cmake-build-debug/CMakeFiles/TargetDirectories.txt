@@ -1,0 +1,3 @@
+D:/datastructure/printnote1/cmake-build-debug/CMakeFiles/printnote1.dir
+D:/datastructure/printnote1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/datastructure/printnote1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
